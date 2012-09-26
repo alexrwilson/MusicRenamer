@@ -18,7 +18,7 @@ The easiest way to set up dependencies is using [pip](http://www.pip-installer.o
 pip install mutagen
 ```
 
-Alternatively, you can get a release from the (Mutagen site)[http://code.google.com/p/mutagen/downloads/list] for manual installation.
+Alternatively, you can get a release from the [Mutagen site](http://code.google.com/p/mutagen/downloads/list) for manual installation.
 
 Once installed, running renamer.py through a python interpreter with the path to the root directory as an argument should cause all MP3 files to be renamed with a leading track title.
 
